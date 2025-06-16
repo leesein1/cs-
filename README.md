@@ -31,15 +31,25 @@
 <summary>📑 스택 (Stack) vs 큐 (Queue)</summary>
 
 - [ ] 스택 (Stack)
-- [ ] 큐 (Queue)
-- [ ] 원형 큐 (Circular Queue)
-- [ ] 우선순위 큐 (Priority Queue)
+- [ ] 큐(Queue)
 
 👉 [📎 큐 vs 스택 보러가기](./자료구조/3.큐%20vs%20스택.md)
 </details>
-
+<details>
+<summary>📑 덱 (Deque)</summary>
 - [ ] 덱 (Deque)
+
 👉 [📎 덱 보러가기](./자료구조/4.덱(Deque).md)
+</details>
+
+<details>
+<summary>🧠 해시 테이블 (Hash Table)</summary>
+
+- [ ] 해시 테이블 (Hash Table)
+
+👉 [📎 해시 테이블 보러가기](./자료구조/5.해시테이블(HashTable).md)
+
+</details>
 
 </details>
 
@@ -79,4 +89,9 @@
 <details>
 <summary>🔗 그래프 (Graph)</summary>
 
-- [ ] DFS (깊이 우
+- [ ] DFS (깊이 우선 탐색)
+- [ ] BFS (너비 우선 탐색)
+- [ ] 인접 리스트 vs 인접 행렬
+- [ ] 유니온 파인드 (Disjoint Set)
+
+---
