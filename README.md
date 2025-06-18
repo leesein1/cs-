@@ -62,12 +62,14 @@
 <summary>🌳 트리 (Tree)</summary>
 
 - [ ] 이진 트리 (Binary Tree)
+
 👉 [📎 이진 트리 보러가기](./자료구조/6.이진%20트리(Binary%20Tree).md)
 
 <details>
 <summary>🥇 힙 (Heap)</summary>
 
 - [ ] 힙 (Heap)
+
 👉 [📎 힙 보러가기](./자료구조/7.힙(Heap).md)
 
 </details>
@@ -75,6 +77,7 @@
 <details>
 <summary>🔗 그래프 (Graph)</summary>
 - [ ] 그래프 (Graph)
+
 👉 [📎 힙 보러가기](./자료구조/8.그래프(Graph).md)
 </details>
 ---
