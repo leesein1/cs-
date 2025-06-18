@@ -62,36 +62,19 @@
 <summary>🌳 트리 (Tree)</summary>
 
 - [ ] 이진 트리 (Binary Tree)
-
-<details>
-<summary>🔍 이진 탐색 트리 (BST)</summary>
-
-- [ ] 삽입 (Insert)
-- [ ] 삭제 (Delete)
-- [ ] 탐색 (Search)
-</details>
-
-<details>
-<summary>⚖️ 균형 트리</summary>
-
-- [ ] AVL 트리
-- [ ] Red-Black Tree
-</details>
-</details>
+👉 [📎 이진 트리 보러가기](./자료구조/6.이진%20트리(Binary%20Tree).md)
 
 <details>
 <summary>🥇 힙 (Heap)</summary>
 
-- [ ] 최대 힙 (Max Heap)
-- [ ] 최소 힙 (Min Heap)
+- [ ] 힙 (Heap)
+👉 [📎 힙 보러가기](./자료구조/7.힙(Heap).md)
+
 </details>
 
 <details>
 <summary>🔗 그래프 (Graph)</summary>
-
-- [ ] DFS (깊이 우선 탐색)
-- [ ] BFS (너비 우선 탐색)
-- [ ] 인접 리스트 vs 인접 행렬
-- [ ] 유니온 파인드 (Disjoint Set)
-
+- [ ] 그래프 (Graph)
+👉 [📎 힙 보러가기](./자료구조/8.그래프(Graph).md)
+</details>
 ---
