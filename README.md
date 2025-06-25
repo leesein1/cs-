@@ -207,9 +207,8 @@
 </details>
 
 ---
-
-## ✅ 운영체제 공부 체크리스트
-
+<details>
+<summary>3. 운영체제</summary>
 <details>
 <summary>📘 개론 및 구조</summary>
 
@@ -259,7 +258,6 @@
 
 </details>
 
-
 ---
 
 <details>
@@ -276,10 +274,12 @@
 
 </details>
 
+</details>
+
 ---
 
 <details>
-<summary>🖧 4. 네트워크</summary>
+<summary>4. 네트워크</summary>
 
 - [ ] 브라우저에 URL 입력 → 화면 출력까지 흐름  
 👉 [📎 URL 입력 흐름 보러가기](./네트워크/1.URL_입력_과정.md)
@@ -298,5 +298,33 @@
 
 - [ ] OSI 7계층 각 레이어 설명  
 👉 [📎 OSI 7계층 보러가기](./네트워크/6.OSI_7계층.md)
+
+</details>
+
+---
+
+<details>
+<summary>5. 데이터베이스</summary>
+
+- [ ] 데이터베이스 기본 개념 (DBMS, RDBMS, SQL)  
+👉 [📎 DB 개론 보러가기](./데이터베이스/1.DB_개론.md)
+
+- [ ] 정규화 / 비정규화 (1NF ~ 3NF)  
+👉 [📎 정규화 보러가기](./데이터베이스/2.정규화.md)
+
+- [ ] 인덱스 (Index)  
+👉 [📎 인덱스 보러가기](./데이터베이스/3.인덱스.md)
+
+- [ ] 트랜잭션 & ACID  
+👉 [📎 트랜잭션 보러가기](./데이터베이스/4.트랜잭션.md)
+
+- [ ] 격리 수준 & Lock  
+👉 [📎 격리 수준 보러가기](./데이터베이스/5.격리수준_Lock.md)
+
+- [ ] Join / 서브쿼리 / 집계 함수  
+👉 [📎 Join & 쿼리 보러가기](./데이터베이스/6.쿼리기법.md)
+
+- [ ] NoSQL vs RDBMS  
+👉 [📎 NoSQL 보러가기](./데이터베이스/7.NoSQL.md)
 
 </details>
