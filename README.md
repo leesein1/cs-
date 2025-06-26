@@ -3,8 +3,8 @@
 <details>
 <summary>1. 자료구조</summary>
 
-## ✅ 자료구조 공부 체크리스트
-
+---
+ 
 <details>
 <summary>📘 개론</summary>
 
@@ -93,8 +93,8 @@
 <details>
 <summary>2. 알고리즘</summary>
 
-## ✅ 알고리즘 공부 체크리스트
-
+---
+ 
 <details>
 <summary>📘 개론</summary>
 
@@ -209,6 +209,9 @@
 ---
 <details>
 <summary>3. 운영체제</summary>
+
+---
+ 
 <details>
 <summary>📘 개론 및 구조</summary>
 
